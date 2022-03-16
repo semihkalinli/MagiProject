@@ -1,0 +1,17 @@
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Application.deps.json
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Application.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\ref\MagiProject.Application.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Application.pdb
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Data.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Domain.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Data.pdb
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\bin\Debug\net5.0\MagiProject.Domain.pdb
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.csproj.AssemblyReference.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.AssemblyInfoInputs.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.AssemblyInfo.cs
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.csproj.CopyComplete
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\ref\MagiProject.Application.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Application\obj\Debug\net5.0\MagiProject.Application.pdb

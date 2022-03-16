@@ -1,0 +1,12 @@
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\bin\Debug\net5.0\MagiProject.Domain.deps.json
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\bin\Debug\net5.0\MagiProject.Domain.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\bin\Debug\net5.0\ref\MagiProject.Domain.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\bin\Debug\net5.0\MagiProject.Domain.pdb
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.csproj.AssemblyReference.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.AssemblyInfoInputs.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.AssemblyInfo.cs
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\ref\MagiProject.Domain.dll
+C:\Users\semih.kalinli\source\repos\MagiProject\MagiProject.Domain\obj\Debug\net5.0\MagiProject.Domain.pdb

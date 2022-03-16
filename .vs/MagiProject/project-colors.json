@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d75ccea9-27b9-4673-bf8f-8fd39ce9f8f8": {
+      "ProjectGuid": "d75ccea9-27b9-4673-bf8f-8fd39ce9f8f8",
+      "DisplayName": "MagiProject",
+      "ColorIndex": 0
+    },
+    "5c72a7f8-97e2-4e72-bff8-8c5683e23260": {
+      "ProjectGuid": "5c72a7f8-97e2-4e72-bff8-8c5683e23260",
+      "DisplayName": "MagiProject.Http",
+      "ColorIndex": 1
+    },
+    "02cb77c5-0bed-4f3f-8e72-1a5e2099a3e7": {
+      "ProjectGuid": "02cb77c5-0bed-4f3f-8e72-1a5e2099a3e7",
+      "DisplayName": "MagiProject.Application",
+      "ColorIndex": 2
+    },
+    "24cc4292-7d8b-466d-b38f-44c8ba9ebb74": {
+      "ProjectGuid": "24cc4292-7d8b-466d-b38f-44c8ba9ebb74",
+      "DisplayName": "MagiProject.Data",
+      "ColorIndex": 3
+    },
+    "f901e57f-86dc-4c45-8a8c-563ec9ee02ac": {
+      "ProjectGuid": "f901e57f-86dc-4c45-8a8c-563ec9ee02ac",
+      "DisplayName": "MagiProject.Domain",
+      "ColorIndex": 4
+    },
+    "25431a39-9250-4fb9-b320-f7fdf6922289": {
+      "ProjectGuid": "25431a39-9250-4fb9-b320-f7fdf6922289",
+      "DisplayName": "Solutions",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
